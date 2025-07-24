@@ -52,12 +52,7 @@ As part of the internship, this project aims to:
 
 ## 📂 Apex Trigger Code
 
-You can find the core logic of the automation in the following files:
-
-- [`OrderTriggerHandler.cls`](./apex/OrderTriggerHandler.cls)
-- [`StockAlertTrigger.cls`](./apex/StockAlertTrigger.cls)
-
-> All Apex classes and trigger files are available in the `/apex` directory.
+You can find the core logic of the automation in the following files in the file named as **Apex Trigger Codes**
 
 ---
 
