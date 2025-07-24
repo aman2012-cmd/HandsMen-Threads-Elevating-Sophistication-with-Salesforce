@@ -1,4 +1,3 @@
-# HandsMen-Threads-Elevating-Sophistication-with-Salesforce
 # HandsMen Threads: Elevating Sophistication with Salesforce
 
 ## Overview
@@ -51,20 +50,28 @@ As part of the internship, this project aims to:
 
 ---
 
-## 🛠️ Technologies Used
+## 📂 Apex Trigger Code
 
-- Salesforce Lightning Experience
-- Flow Builder (Automation)
-- Apex (Synchronous & Asynchronous)
-- Email Alerts & Notifications
-- Validation Rules & Custom Objects
+You can find the core logic of the automation in the following files:
+
+- [`OrderTriggerHandler.cls`](./apex/OrderTriggerHandler.cls)
+- [`StockAlertTrigger.cls`](./apex/StockAlertTrigger.cls)
+
+> All Apex classes and trigger files are available in the `/apex` directory.
 
 ---
 
-## 🧑‍💻 Intern Developer
+## 📺 Project Demonstration
 
-- **Aman Srivastava**  
-  *Salesforce Intern Developer*
+🎥 [Click here to watch the project demo](https://drive.google.com/file/d/15VFxsVOTAaJCJPUymChrTIUEwsb9oAYt/view?usp=sharing)
+
+---
+
+## 📘 Additional Resources
+
+For deeper insight into how the project is structured and deployed, refer to the documentation:
+
+📄 [HandsMen Threads Salesforce Project Documentation]
 
 ---
 
